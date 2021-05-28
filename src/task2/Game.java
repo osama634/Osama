@@ -22,7 +22,7 @@ public class Game {
 		}
 		catch(Exception ex) {
 			System.out.println("input integer value");
-		}
+		}//Osama
 	}
 	}
 
